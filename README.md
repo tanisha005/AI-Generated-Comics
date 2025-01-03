@@ -10,8 +10,10 @@ DialogCraft is an advanced dialogue generation project designed to create charac
 
 ## Installation
 1. **Clone the repository:**
+   ```bash
    git clone https://github.com/tanisha005/DialogCraft.git
    cd DialogCraft
 3. Set up a virtual environment
+   ```bash
    python -m venv env
    source env/bin/activate  # On Windows: `env\Scripts\activate`
